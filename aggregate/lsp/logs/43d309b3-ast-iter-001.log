@@ -1,0 +1,7 @@
+[2026-04-14T14:58:52Z] === AST ITERATION 1 START | repo=xunit/xunit sha=43d309b3 ===
+[2026-04-14T14:58:52Z] [iter=1] PHASE START: ast repo=xunit/xunit sha=43d309b3
+[2026-04-14T14:58:52Z] [iter=1] Building AST aggregate chunks
+[2026-04-14T15:06:49Z] [iter=1] AST chunks built count=1 triples=4980154
+[2026-04-14T15:06:49Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/43d309b32b9eee15cda0e7732962d5f5e6c05279/.complete
+[2026-04-14T15:06:49Z] [iter=1] PHASE END: ast elapsed_s=477 elapsed_min=8.0
+[2026-04-14T15:06:49Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
